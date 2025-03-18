@@ -1,5 +1,5 @@
 # ramnik2
-ru: ramnik v2
+ru: рамник 2
  
  **что это:** некий калькулятор размера (ростовки(рич), перьев) рамы для bmx
 
@@ -12,7 +12,7 @@ ru: ramnik v2
  **из чего:** был использован лишь python: библиотеки tkinter(первая версия), kivy( версия для пк (.exe) ), toga ( версия для андроид (.apk) ). Проект полностью написан на python (для андроид собран с помощью BeeWare)
 
 
-en:
+en: ramnik 2
  **what this:** calc size (rich, chain_stay_length) bmx frame
 
  **for who:** bmx riders
